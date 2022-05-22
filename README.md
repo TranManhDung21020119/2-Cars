@@ -41,5 +41,5 @@
   * Thêm các vật thể là phần quà đặc biệt
 6. Các nguồn tài liệu tham khảo
   * Các câu lệnh trong SFML:
-   + https://www.sfml-dev.org/tutorials/2.5/
-   + https://www.youtube.com/c/SonarSystemsCoUk
+    + https://www.sfml-dev.org/tutorials/2.5/
+    + https://www.youtube.com/c/SonarSystemsCoUk
