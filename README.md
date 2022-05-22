@@ -23,15 +23,15 @@
 #### b) Các ý tưởng chính:
   * Hệ thống các đối tượng: Xe, các vật thể(hình vuông, hình tròn)
   * Đồ họa đơn giản, dễ hiểu, dễ chơi
-3. Các chức năng được cài đặt trong trò chơi
+### 3. Các chức năng được cài đặt trong trò chơi
   * Các chức năng chơi, tương tác với phím
   * Hiển thị điểm số ở góc trên bên trái màn hình
   * Video demo [ tại đây ]()
-4. Các kỹ thuật lập trình được sử dụng trong chương trình
+### 4. Các kỹ thuật lập trình được sử dụng trong chương trình
   * Kỹ thuật lập trình đồ họa bằng SFML
   * Con trỏ, mảng, sinh số ngẫu nhiên
   * Xử lí va chạm
-5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
+### 5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
 #### a) Điều tâm đắc:
   * Học được các kiến thức về đồ họa, SFML. Biết và hiểu cơ bản cách tạo ra 1 game 2D
   * Củng cố, nâng cao kiến thức về C++
@@ -39,7 +39,7 @@
   * Thêm âm thanh
   * Thêm menu(bảng xếp hạng, cài đặt các thông số game...)
   * Thêm các vật thể là phần quà đặc biệt
-6. Các nguồn tài liệu tham khảo
+### 6. Các nguồn tài liệu tham khảo
   * Các câu lệnh trong SFML:
     + https://www.sfml-dev.org/tutorials/2.5/
     + https://www.youtube.com/c/SonarSystemsCoUk
