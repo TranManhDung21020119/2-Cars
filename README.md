@@ -26,7 +26,7 @@
 ### 3. Các chức năng được cài đặt trong trò chơi
   * Các chức năng chơi, tương tác với phím
   * Hiển thị điểm số ở góc trên bên trái màn hình
-  * Video demo [ tại đây ]()
+  * Video demo [ tại đây ](https://youtu.be/s9Ha2xgYrMc)
 ### 4. Các kỹ thuật lập trình được sử dụng trong chương trình
   * Kỹ thuật lập trình đồ họa bằng SFML
   * Con trỏ, mảng, sinh số ngẫu nhiên
