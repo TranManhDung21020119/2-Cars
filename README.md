@@ -3,7 +3,7 @@
 
 ### 1. Hướng dẫn cài đặt
   * Lưu ý: Sử dụng file project của Visual Studio Community 2019
-  * Tải project [ tại đây ](https://drive.google.com/file/d/1LxT5TKlbBu4blCyQavVRdrDbN4gQnpua/view?usp=sharing)
+  * Tải project [ tại đây ](https://github.com/TranManhDung21020119/2-Cars/archive/refs/heads/main.zip)
   * Giải nén file vừa tải
   * Chạy chương trình:
     + Mở file 2 Cars.sln bằng Visual Studio 2019
