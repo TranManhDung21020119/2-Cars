@@ -9,7 +9,8 @@
     + Mở file 2 Cars.sln bằng Visual Studio 2019
     + Cài Solution Platforms x64
     + Cài Solution Configurations Release
-    + Nhấn F5 hoặc click vào Local Windows Debugger để chạy
+    + Nhấn F5 hoặc click vào Local Windows Debugger để chạy![instruction](https://user-images.githubusercontent.com/100196588/169731734-7f63f039-f3f2-4c7d-b5df-29a5bf24e29c.png)
+
 
 ### 2. Mô tả chung về trò chơi, các ý tưởng chính
 #### a) Mô tả chung về trò chơi
